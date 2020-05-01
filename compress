@@ -1,0 +1,12 @@
+#!/bin/bash
+
+first_arg=$1
+dirs=(${first_arg:-library.blend xdb.json})
+for dir in "${dirs[@]}"
+do
+    base=$(basename "$dir")
+    echo "Compressing $dir"
+    tar -cjSf "${base}.tar.bz2" "$dir"
+done
+
+echo "Done."

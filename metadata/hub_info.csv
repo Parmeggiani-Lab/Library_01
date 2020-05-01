@@ -1,0 +1,42 @@
+D18_C2_03.pdb, dimer, symmetric
+A, D18, N_free, C_oligo, B, D18, N_free, C_oligo
+D18_C3_04.pdb, trimer, symmetric
+A, D18, N_free, C_oligo, B, D18, N_free, C_oligo, C, D18, N_free, C_oligo
+D18_aC2_12.pdb, dimer, asymmetric
+A, D18, N_free, C_oligo, B, D18, N_free, C_oligo
+D18_aC2_13.pdb, dimer, asymmetric
+A, D18, N_free, C_oligo, B, D18, N_free, C_oligo
+D49_aC2_24.pdb, dimer, asymmetric
+A, D49, N_oligo, C_free, B, D49, N_oligo, C_free
+D4_C3_02.pdb, trimer, symmetric
+A, D4, N_free, C_oligo, B, D4, N_free, C_oligo, C, D4, N_free, C_oligo
+D4_aC2_08.pdb, dimer, asymmetric
+A, D4, N_oligo, C_free, B, D4, N_oligo, C_free
+D79_aC2_02.pdb, dimer, asymmetric
+A, D79, N_oligo, C_free, B, D79, N_oligo, C_free
+D79_aC2_04.pdb, dimer, asymmetric
+A, D79, N_oligo, C_free, B, D79, N_oligo, C_free
+D81_aC2_05.pdb, dimer, asymmetric
+A, D81, N_oligo, C_free, B, D81, N_oligo, C_free
+D81_aC2_09.pdb, dimer, asymmetric
+A, D81, N_oligo, C_free, B, D81, N_oligo, C_free
+D49_aC2_ext.pdb, dimer, asymmetric
+C, D49, N_free, C_free, D, D49, N_free, C_free
+darp_aC2_casp.pdb, dimer, asymmetric
+C, darp, N_oligo, C_free, F, darp, N_oligo, C_free
+darp_aC2_GFP.pdb, heterodimer, asymmetric
+B, darp, N_free, C_oligo, C, darp, N_oligo, C_free
+ank1_C2_G3, dimer, symmetric
+A, darp, N_free, C_free, B, darp, N_free, C_free
+ank1_C4_07, tetramer, symmetric
+A, darp, N_oligo, C_free, B, darp, N_oligo, C_free, C, darp, N_oligo, C_free, D, darp, N_oligo, C_free
+ank3_C2_01, dimer, symmetric
+A, darp, N_free, C_free, B, darp, N_free, C_free
+ank3_C2_02, dimer, symmetric
+A, darp, N_free, C_free, B, darp, N_free, C_free
+ank4_C4_02, tetramer, symmetric
+A, darp, N_oligo, C_free, B, darp, N_oligo, C_free, C, darp, N_oligo, C_free, D, darp, N_oligo, C_free
+D4_C4_G1, tetramer, symmetric
+A, D4, N_free, C_oligo, B, D4, N_free, C_oligo, C, D4, N_free, C_oligo, D, D4, N_free, C_oligo
+D79_C2_VO1, dimer, symmetric
+A, D79, N_oligo, C_free, B, D79, N_oligo, C_free
