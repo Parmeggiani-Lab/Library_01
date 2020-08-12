@@ -1,4 +1,4 @@
-# elfin-library-darpin
+# The Elfin Library 
 
 This repo serves protein data produced by [elfin-data](https://github.com/Parmeggiani-Lab/elfin-data)'s data processing written by joy13975.
 
